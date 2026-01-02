@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.af2f1d43.css",
-    "main.js": "/your-repo-name/static/js/main.5bee2877.js",
-    "static/js/787.177e23c2.chunk.js": "/your-repo-name/static/js/787.177e23c2.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.af2f1d43.css.map": "/your-repo-name/static/css/main.af2f1d43.css.map",
-    "main.5bee2877.js.map": "/your-repo-name/static/js/main.5bee2877.js.map",
-    "787.177e23c2.chunk.js.map": "/your-repo-name/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/homework-front-main/static/css/main.af2f1d43.css",
+    "main.js": "/homework-front-main/static/js/main.6ab2e54e.js",
+    "static/js/787.177e23c2.chunk.js": "/homework-front-main/static/js/787.177e23c2.chunk.js",
+    "index.html": "/homework-front-main/index.html",
+    "main.af2f1d43.css.map": "/homework-front-main/static/css/main.af2f1d43.css.map",
+    "main.6ab2e54e.js.map": "/homework-front-main/static/js/main.6ab2e54e.js.map",
+    "787.177e23c2.chunk.js.map": "/homework-front-main/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af2f1d43.css",
-    "static/js/main.5bee2877.js"
+    "static/js/main.6ab2e54e.js"
   ]
 }
