@@ -42,5 +42,6 @@
   },
   "devDependencies": {
     "prettier": "3.0.0"
-  }
+  },
+  "homepage": "https://dlrozd.github.io/homework-front-main/"
 }
